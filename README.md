@@ -87,6 +87,6 @@ Contributions are welcome. Please follow the established coding standards, add d
 
 ## Acknowledgments
 Supervisor: Thierry Duval
-Developer: Mohamed Mellouky && Nihal Dakkoune.
+Developer: Mohamed Mellouky
 
 This project was developed as part of the 2023-2024 academic year.
